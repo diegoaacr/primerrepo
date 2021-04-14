@@ -4,3 +4,9 @@ body {
   background: skyblue;
   padding: 2em;
 }
+
+nav {
+  background: red;
+  display: grid;
+  grid-template-columns: repeat(1, 3fr);
+}
